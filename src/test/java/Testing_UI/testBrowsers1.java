@@ -8,7 +8,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
 
-public class testBrowsers {
+public class testBrowsers1 {
 	
 	
 	@Test
@@ -16,6 +16,7 @@ public class testBrowsers {
 	{
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.google.com");
+		
 		//WebElement username = driver.findElement(By.xpath("username"));
 		
 		//Select sel = new Select(username);

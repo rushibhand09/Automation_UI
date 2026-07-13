@@ -4,9 +4,7 @@ public class toPushMaster {
 	
 	public static void main (String [] args )
 	{
-		//From branch to Master
-		
-		//updated class test cases
+		//From branch to 	Master 
 	}
 
 }
